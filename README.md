@@ -1,4 +1,4 @@
-# 🧾 Personal Finance with ChatGPT
+# 🧾 Categorising bank statements with ChatGPT
 
 This project uses the ChatGPT API to categorize bank and credit card transactions based on their descriptions. It's a lightweight way to get more insight into where your money is going—especially if your bank doesn't do this for you.
 

@@ -49,12 +49,3 @@ Sends transaction descriptions in batches to a ChatGPT assistant and receives ba
 - Instructions to the assistant are carefully designed to return machine-readable outputs (e.g., plain CSV, numbered lists).
 - Works best with Dutch bank data, but can be adapted.
 
-## 📚 Related Projects
-
-- Literature review helper (coming soon)
-- Image categorization using ChatGPT for quick computer vision tasks
-
-## 📬 Questions?
-
-If you're unsure how something works, just paste the relevant code into ChatGPT and ask—it’ll probably explain it better than I can.
-
